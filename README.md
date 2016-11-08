@@ -1,27 +1,39 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/)
+#Task № 1#
+I used that instruction to fork the repo, edit it, make a commits and make a pull request
 
-[Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
 
-## Getting Started
+#Task № 2#
+Here is link to my profile: 
+https://github.com/HurYur
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/clean-blog/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-clean-blog.git`
-* Fork the repo
 
-## Bugs and Issues
+#Task № 3#
+Here is link to repo:
+https://github.com/HurYur/welcome-to-github
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-clean-blog/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/clean-blog/).
 
-## Creator
+#Task № 4#
+![Task № 4](http://i.piccy.info/i9/74c207ff8611ded2c74fa988191219e2/1478592401/62370/1087531/task4.png)
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+#Task № 5#
+![Task № 5](http://i.piccy.info/i9/e8670f79d231eddec6de86de9a790dea/1478592614/120120/1087531/task5.png)
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-## Copyright and License
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-clean-blog/blob/gh-pages/LICENSE) license.
+#Task № 6#
+https://github.com/HurYur/hello-world-github
+
+
+
+#Task № 7#
+![Task № 7](http://i.piccy.info/i9/a2d07a61adb5e444abc577bb1bee4c67/1478592836/63548/1087531/task7.png)
+
+
+#Task № 8#
+![Task № 8](http://i.piccy.info/i9/466ed2eda170edb7fa1b336eecda1b14/1478592798/213144/1087531/task8.png)
+Here is repo link: https://github.com/HurYur/hello-world-git
+
+
+#Task № 9#
+https://huryur.github.io/testing-the-github-pages/
