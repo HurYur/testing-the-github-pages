@@ -17,7 +17,9 @@ https://github.com/HurYur/welcome-to-github
 
 
 #Task № 5#
-![Task № 5](http://i.piccy.info/i9/e8670f79d231eddec6de86de9a790dea/1478592614/120120/1087531/task5.png)
+![Task № 5.1](http://i.piccy.info/i9/e8670f79d231eddec6de86de9a790dea/1478592614/120120/1087531/task5.png)
+
+![Task № 5.2](http://i.piccy.info/i9/faf55bba8caf9d3651309db177917d65/1479132190/59649/1087531/5_2.png)
 
 
 
